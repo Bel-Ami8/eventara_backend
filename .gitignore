@@ -12,3 +12,9 @@ logs/
 # code compilé
 dist/
 build/
+
+# compte firebase
+firebase-service-account.json
+
+#fichier sequelize pour reconnaissance  de chemin
+.sequelizerc
